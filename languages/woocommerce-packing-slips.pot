@@ -1,0 +1,573 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Packing Slips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-20 10:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-packing-slips.php:88
+msgid ""
+"WooCommerce Packing Slips requires the WooCommerce and Redux Framework "
+"plugin. Please install or activate them before!"
+msgstr ""
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr ""
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+
+#: admin/options-init.php:113
+msgid "Packing Slips"
+msgstr ""
+
+#: admin/options-init.php:115 admin/options-init.php:850
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:128 admin/options-init.php:232
+#: admin/options-init.php:580
+msgid "Enable"
+msgstr ""
+
+#: admin/options-init.php:129
+msgid "Enable Packing Slips to use the options below"
+msgstr ""
+
+#: admin/options-init.php:135
+msgid "Create Packing Slips Automatically"
+msgstr ""
+
+#: admin/options-init.php:136
+msgid "Packing Slips will be created for each order automatically."
+msgstr ""
+
+#: admin/options-init.php:142
+msgid "Attach Packing Slip to Email"
+msgstr ""
+
+#: admin/options-init.php:143
+msgid "Attach Packing Slips automatically to admin mails."
+msgstr ""
+
+#: admin/options-init.php:150
+msgid "Layout"
+msgstr ""
+
+#: admin/options-init.php:174
+msgid "Text Color"
+msgstr ""
+
+#: admin/options-init.php:181
+msgid "Default Font"
+msgstr ""
+
+#: admin/options-init.php:183
+msgid "Sans"
+msgstr ""
+
+#: admin/options-init.php:184
+msgid "Serif"
+msgstr ""
+
+#: admin/options-init.php:185
+msgid "Mono"
+msgstr ""
+
+#: admin/options-init.php:186
+msgid "Droid Sans"
+msgstr ""
+
+#: admin/options-init.php:187
+msgid "Droid Serif"
+msgstr ""
+
+#: admin/options-init.php:188
+msgid "Lato"
+msgstr ""
+
+#: admin/options-init.php:189
+msgid "Lora"
+msgstr ""
+
+#: admin/options-init.php:190
+msgid "Merriweather"
+msgstr ""
+
+#: admin/options-init.php:191
+msgid "Montserrat"
+msgstr ""
+
+#: admin/options-init.php:192
+msgid "Open sans"
+msgstr ""
+
+#: admin/options-init.php:193
+msgid "Open Sans Condensed"
+msgstr ""
+
+#: admin/options-init.php:194
+msgid "Oswald"
+msgstr ""
+
+#: admin/options-init.php:195
+msgid "PT Sans"
+msgstr ""
+
+#: admin/options-init.php:196
+msgid "Source Sans Pro"
+msgstr ""
+
+#: admin/options-init.php:197
+msgid "Slabo"
+msgstr ""
+
+#: admin/options-init.php:198
+msgid "Raleway"
+msgstr ""
+
+#: admin/options-init.php:205
+msgid "Default font size"
+msgstr ""
+
+#: admin/options-init.php:214
+msgid "Default line height"
+msgstr ""
+
+#: admin/options-init.php:224
+msgid "Header"
+msgstr ""
+
+#: admin/options-init.php:233
+msgid "Enable header"
+msgstr ""
+
+#: admin/options-init.php:240
+msgid "Header background color"
+msgstr ""
+
+#: admin/options-init.php:248
+msgid "Header text color"
+msgstr ""
+
+#: admin/options-init.php:256
+msgid "Header font size"
+msgstr ""
+
+#: admin/options-init.php:265
+msgid "Header Layout"
+msgstr ""
+
+#: admin/options-init.php:268 admin/options-init.php:617
+msgid "1/1"
+msgstr ""
+
+#: admin/options-init.php:269 admin/options-init.php:618
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: admin/options-init.php:270 admin/options-init.php:619
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: admin/options-init.php:277
+msgid "Header Margin"
+msgstr ""
+
+#: admin/options-init.php:287
+msgid "Header Height"
+msgstr ""
+
+#: admin/options-init.php:297 admin/options-init.php:648
+msgid "Vertical Align"
+msgstr ""
+
+#: admin/options-init.php:300 admin/options-init.php:651
+msgid "Top"
+msgstr ""
+
+#: admin/options-init.php:301 admin/options-init.php:652
+msgid "Middle"
+msgstr ""
+
+#: admin/options-init.php:302 admin/options-init.php:653
+msgid "Bottom"
+msgstr ""
+
+#: admin/options-init.php:309
+msgid "Top Left Header"
+msgstr ""
+
+#: admin/options-init.php:312 admin/options-init.php:347
+#: admin/options-init.php:381 admin/options-init.php:663
+#: admin/options-init.php:703 admin/options-init.php:742
+#: admin/options-init.php:780
+msgid "None"
+msgstr ""
+
+#: admin/options-init.php:313 admin/options-init.php:348
+#: admin/options-init.php:382 admin/options-init.php:664
+#: admin/options-init.php:704 admin/options-init.php:743
+#: admin/options-init.php:781
+msgid "Blog information"
+msgstr ""
+
+#: admin/options-init.php:314 admin/options-init.php:349
+#: admin/options-init.php:383 admin/options-init.php:665
+#: admin/options-init.php:705 admin/options-init.php:744
+#: admin/options-init.php:782
+msgid "Custom text"
+msgstr ""
+
+#: admin/options-init.php:315 admin/options-init.php:350
+#: admin/options-init.php:384 admin/options-init.php:666
+#: admin/options-init.php:706 admin/options-init.php:745
+#: admin/options-init.php:783
+msgid "Pagenumber"
+msgstr ""
+
+#: admin/options-init.php:316 admin/options-init.php:351
+#: admin/options-init.php:385 admin/options-init.php:667
+#: admin/options-init.php:707 admin/options-init.php:746
+#: admin/options-init.php:784
+msgid "Image"
+msgstr ""
+
+#: admin/options-init.php:317 admin/options-init.php:352
+#: admin/options-init.php:386 admin/options-init.php:668
+#: admin/options-init.php:708 admin/options-init.php:747
+#: admin/options-init.php:785
+msgid "Export Information"
+msgstr ""
+
+#: admin/options-init.php:318 admin/options-init.php:353
+#: admin/options-init.php:387 admin/options-init.php:669
+#: admin/options-init.php:709 admin/options-init.php:748
+#: admin/options-init.php:786
+msgid "QR-Code"
+msgstr ""
+
+#: admin/options-init.php:325
+msgid "Top Left Header Text"
+msgstr ""
+
+#: admin/options-init.php:335
+msgid "Top Left Header Image"
+msgstr ""
+
+#: admin/options-init.php:344
+msgid "Top Middle Header"
+msgstr ""
+
+#: admin/options-init.php:359
+msgid "Top Middle Header Text"
+msgstr ""
+
+#: admin/options-init.php:369
+msgid "Top Middle Header Image"
+msgstr ""
+
+#: admin/options-init.php:378
+msgid "Top Right Header"
+msgstr ""
+
+#: admin/options-init.php:394
+msgid "Top Right Header Text"
+msgstr ""
+
+#: admin/options-init.php:404
+msgid "Top Right Header Image"
+msgstr ""
+
+#: admin/options-init.php:414
+msgid "Address"
+msgstr ""
+
+#: admin/options-init.php:433
+msgid "Address Text Left"
+msgstr ""
+
+#: admin/options-init.php:446
+msgid "Address Text Center"
+msgstr ""
+
+#: admin/options-init.php:460
+msgid "Address Text Right"
+msgstr ""
+
+#: admin/options-init.php:475
+msgid "Content"
+msgstr ""
+
+#: admin/options-init.php:483
+msgid "Content Intro Text"
+msgstr ""
+
+#: admin/options-init.php:496
+msgid "Show Position Field"
+msgstr ""
+
+#: admin/options-init.php:502
+msgid "Show Product Field"
+msgstr ""
+
+#: admin/options-init.php:508
+msgid "Show SKU Field"
+msgstr ""
+
+#: admin/options-init.php:514
+msgid "Show Weight Field"
+msgstr ""
+
+#: admin/options-init.php:520
+msgid "Show Quantity Field"
+msgstr ""
+
+#: admin/options-init.php:527
+msgid "Even Items Background Color"
+msgstr ""
+
+#: admin/options-init.php:535
+msgid "Even Items Text Color"
+msgstr ""
+
+#: admin/options-init.php:543
+msgid "Odd Items Background Color"
+msgstr ""
+
+#: admin/options-init.php:551
+msgid "Odd Items Text Color"
+msgstr ""
+
+#: admin/options-init.php:558
+msgid "Content Outro Text"
+msgstr ""
+
+#: admin/options-init.php:572
+msgid "Footer"
+msgstr ""
+
+#: admin/options-init.php:581
+msgid "Enable footer"
+msgstr ""
+
+#: admin/options-init.php:588
+msgid "Footer background color"
+msgstr ""
+
+#: admin/options-init.php:597
+msgid "Footer text color"
+msgstr ""
+
+#: admin/options-init.php:605
+msgid "Footer font size"
+msgstr ""
+
+#: admin/options-init.php:614
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/options-init.php:620
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: admin/options-init.php:628
+msgid "Footer Margin"
+msgstr ""
+
+#: admin/options-init.php:638
+msgid "Footer Height"
+msgstr ""
+
+#: admin/options-init.php:660
+msgid "Top Left Footer"
+msgstr ""
+
+#: admin/options-init.php:676
+msgid "Top Left Footer Text"
+msgstr ""
+
+#: admin/options-init.php:691
+msgid "Top Left Footer Image"
+msgstr ""
+
+#: admin/options-init.php:700
+msgid "Top Middle Left Footer"
+msgstr ""
+
+#: admin/options-init.php:716
+msgid "Top Middle Left Footer Text"
+msgstr ""
+
+#: admin/options-init.php:730
+msgid "Top Middle Left Footer Image"
+msgstr ""
+
+#: admin/options-init.php:739
+msgid "Top Middle Right Footer"
+msgstr ""
+
+#: admin/options-init.php:755
+msgid "Top Middle Right Footer Text"
+msgstr ""
+
+#: admin/options-init.php:768
+msgid "Top Middle Right Footer Image"
+msgstr ""
+
+#: admin/options-init.php:777
+msgid "Top Right Footer"
+msgstr ""
+
+#: admin/options-init.php:793
+msgid "Top Right Footer Text"
+msgstr ""
+
+#: admin/options-init.php:807
+msgid "Top Right Footer Image"
+msgstr ""
+
+#: admin/options-init.php:817
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/options-init.php:818
+msgid "Custom stylesheet / javascript."
+msgstr ""
+
+#: admin/options-init.php:825
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: admin/options-init.php:826
+msgid "This stops creating the PDF and shows the plain HTML."
+msgstr ""
+
+#: admin/options-init.php:832
+msgid "Enable MPDF Debug Mode"
+msgstr ""
+
+#: admin/options-init.php:833
+msgid "Show image , font or other errors in the PDF Rendering engine."
+msgstr ""
+
+#: admin/options-init.php:840
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:841
+msgid "Add some stylesheet if you want."
+msgstr ""
+
+#: admin/options-init.php:848
+msgid "Preview"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:135
+#: admin/class-woocommerce-packing-slips-admin.php:187
+msgid "Download Packing Slip"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:158
+msgid "Packing Slip"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:188
+msgid "Update Packing Slip"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:191
+msgid "No files uploaded."
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:193
+msgid "Create Packing Slip"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:210
+msgid "Select Order ID"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:234
+msgid "Download Packing Slips"
+msgstr ""
+
+#: admin/class-woocommerce-packing-slips-admin.php:255
+msgid "No Packing Slips found"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:92
+msgid "No Woo Order Found"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:217
+msgid "Invoice"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:217
+msgid "Credit Note"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:485
+msgid "Pos."
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:486
+msgid "Product"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:487
+msgid "SKU"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:488
+msgid "Weight"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:489
+msgid "Qty"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:529
+#: public/class-woocommerce-packing-slips-generator.php:533
+msgid "N/A"
+msgstr ""
+
+#: public/class-woocommerce-packing-slips-generator.php:677
+msgid "Page:"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Packing Slips"
+msgstr ""
+
+#. Description of the plugin
+msgid "Generate Packaging Slips for WooCommerce Orders with Ease."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://welaunch.io/plugins/woocommerce-packing-slips/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WeLaunch"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://welaunch.io"
+msgstr ""
